@@ -1,0 +1,133 @@
+JanoBangla Google Ads Keyword Plan
+================================
+Target: Bangladesh | Language: Bangla + English | Search campaign
+Use phrase/exact match first; review Search Terms before expanding.
+
+AD GROUP 1 — Mobile & Smartphone
+[mobile price in Bangladesh]
+[smartphone price Bangladesh]
+[latest mobile price Bangladesh]
+[new mobile phone Bangladesh]
+[best smartphone Bangladesh]
+[latest smartphone Bangladesh]
+[mobile phone Bangladesh]
+[smartphone news Bangladesh]
+[new smartphone release]
+[upcoming mobile phone Bangladesh]
+"mobile price Bangladesh"
+"smartphone price Bangladesh"
+"latest smartphone news"
+"new phone launch Bangladesh"
+"best budget phone Bangladesh"
+
+AD GROUP 2 — Samsung
+[samsung mobile price Bangladesh]
+[samsung phone price Bangladesh]
+[latest Samsung phone Bangladesh]
+[new Samsung mobile Bangladesh]
+[Samsung smartphone review]
+"Samsung mobile price Bangladesh"
+"Samsung phone review Bangladesh"
+
+AD GROUP 3 — Vivo
+[vivo mobile price Bangladesh]
+[vivo phone price Bangladesh]
+[latest Vivo phone Bangladesh]
+[new Vivo mobile Bangladesh]
+[vivo smartphone review]
+"Vivo mobile price Bangladesh"
+"Vivo phone review Bangladesh"
+
+AD GROUP 4 — Oppo
+[oppo mobile price Bangladesh]
+[oppo phone price Bangladesh]
+[latest Oppo phone Bangladesh]
+[new Oppo mobile Bangladesh]
+[oppo smartphone review]
+"Oppo mobile price Bangladesh"
+"Oppo phone review Bangladesh"
+
+AD GROUP 5 — Redmi / Xiaomi
+[redmi mobile price Bangladesh]
+[xiaomi mobile price Bangladesh]
+[redmi phone price Bangladesh]
+[latest Redmi phone Bangladesh]
+[new Xiaomi phone Bangladesh]
+[redmi smartphone review]
+"Redmi mobile price Bangladesh"
+"Xiaomi phone price Bangladesh"
+
+AD GROUP 6 — Realme / Itel
+[realme mobile price Bangladesh]
+[realme phone price Bangladesh]
+[latest Realme phone Bangladesh]
+[realme smartphone review Bangladesh]
+[itel mobile price Bangladesh]
+[itel phone price Bangladesh]
+[latest Itel phone Bangladesh]
+"Realme mobile price Bangladesh"
+"Itel mobile price Bangladesh"
+
+AD GROUP 7 — iPhone
+[iphone price Bangladesh]
+[latest iphone price Bangladesh]
+[new iphone Bangladesh]
+[iphone review Bangladesh]
+[latest iphone Bangladesh]
+[iphone comparison Bangladesh]
+"iPhone price Bangladesh"
+"latest iPhone Bangladesh"
+"iPhone review Bangladesh"
+
+AD GROUP 8 — Reviews & Comparisons
+[mobile phone review Bangladesh]
+[smartphone review Bangladesh]
+[best phone review Bangladesh]
+[best camera phone Bangladesh]
+[best gaming phone Bangladesh]
+[best budget phone Bangladesh]
+[best phone under 20000 Bangladesh]
+[best phone under 30000 Bangladesh]
+[best phone under 40000 Bangladesh]
+[smartphone comparison Bangladesh]
+[mobile comparison Bangladesh]
+[vivo vs oppo]
+[samsung vs vivo]
+[redmi vs realme]
+[iphone vs samsung]
+
+AD GROUP 9 — Tech & AI
+[latest technology news Bangladesh]
+[technology news Bangladesh]
+[latest tech news]
+[AI news Bangladesh]
+[artificial intelligence news Bangladesh]
+[AI tools guide]
+[best AI tools]
+[how to use AI]
+[AI productivity tips]
+[online security tips Bangladesh]
+[Google account security]
+[phone security tips]
+
+AD GROUP 10 — How-To / Practical Guides
+[how to secure Google account]
+[how to protect Google account]
+[how to backup phone]
+[how to free phone storage]
+[how to speed up Android phone]
+[how to fix slow phone]
+[how to improve WiFi speed]
+[how to secure WiFi]
+[how to avoid phishing]
+[how to use two factor authentication]
+[online safety tips]
+[phone battery tips]
+[Android tips Bangladesh]
+
+CAMPAIGN NOTES
+- Start with exact and phrase match for tighter control.
+- Use the most relevant article/category as each ad group's landing page.
+- Do not send every ad to the homepage if a specific article is more relevant.
+- Check the Search Terms report regularly and add genuinely irrelevant terms as negatives.
+- Do not use bots, click farms, incentivized clicks, or purchased fake traffic.
